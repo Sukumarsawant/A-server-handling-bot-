@@ -2,5 +2,4 @@
 
 1. **Clone the repository:**
    ```bash
-https://github.com/Sukumarsawant/A-server-handling-bot-
-```
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/Sukumarsawant/A-server-handling-bot-)
